@@ -13,6 +13,7 @@ body {
 p{
   padding-bottom: 24px;
   padding-top: 16px;
+  padding-left: 16px;
   width: 72%;
 }
 
@@ -143,7 +144,6 @@ main {
   padding-left: 16px;
   padding-right: 16px;
   padding-bottom: 64px;
-  padding-top: 100px;
 }
 
 /* unvisited link */

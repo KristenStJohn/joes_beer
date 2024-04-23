@@ -21,7 +21,6 @@
   /*scrollable text box*/
 
 #myDIV {
-  height:300px;
   background-color:#FFFFFF;
 }
 .ex1 {
@@ -55,9 +54,9 @@
   flex: 65%;
 }
 
-/* Responsive layout - makes a one column-layout instead of a two-column layout */
-@media (max-width: 800px) {
-  .flex-item-right, .flex-item-left {
-    flex: 100%;
-  }
+
+.responsive {
+  padding-top: 75px;
+  width: 100%;
+  height: auto;
 }
